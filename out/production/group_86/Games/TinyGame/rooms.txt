@@ -1,0 +1,54 @@
+1
+Victory
+Welcome to this academia adventure game! Answer up to 5 questions of various difficulty to gain at least 21 tokens before the game ends. Keep in mind there are ONLY 5 rooms until the end, with Easy questions awarding 3 points, hard questions awarding 5! To start the game, enter "move" in the input text field below:
+-----
+MOVE       2
+
+2
+MathRoom
+Welcome to the math room!
+-----
+MOVE       3
+
+3
+EnglishRoom
+Welcome to the English room!
+-----
+MOVE       4
+
+4
+ScienceRoom
+Welcome to the science room!
+-----
+MOVE       5
+
+5
+ReligionRoom
+Welcome to the religion room!
+-----
+MOVE       6
+
+6
+HistoryRoom
+Welcome to the history room!
+-----
+MOVE     7
+
+7
+ResultsRoom
+Let's see how you did!
+-----
+FORCED       8/21
+FORCED       9
+
+8
+WinnerRoom
+Congrats, you now have at least 21 tokens. You win the game!
+-----
+FORCED       0
+
+9
+LoserRoom
+Unfortunately, you have less than 21 tokens and you are at the last room. Consider answering harder questions next time to gain more tokens.
+-----
+FORCED       0

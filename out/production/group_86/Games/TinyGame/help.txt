@@ -1,0 +1,19 @@
+To play this game you must travel through the rooms and answer questions to earn points.
+
+The goal is to reach the final room with at least 21 points.
+
+You can only move to the next room once you attempt the question in the given room. You cannot move backwards.
+
+There is 1 room dedicated to each of the following themes:
+
+Math, English, Science, Religion, History
+
+In a given room, you will choose to solve either an easy or hard multiple-choice question. The question will be displayed
+after you have chosen a difficulty, and you cannot change it after you have chosen. The difficulty is chosen separately
+for each room you enter, so choosing a hard question in one room does not force all following rooms to show hard questions.
+
+Easy and hard questions have different value.
+If you answer a question correctly, you gain the number of points corresponding to the value of the question. If you
+answer incorrectly, you lose the number of points corresponding to the value.
+
+The game is over when you reach the final room. If you have at least 21 points, you win! Otherwise, you lose!

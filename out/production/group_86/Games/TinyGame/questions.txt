@@ -1,0 +1,239 @@
+EASY
+2
+What is 22 times 3?
+25
+66*
+22^3
+7
+
+EASY
+2
+What is the remainder when 21 is divided by 3?
+0*
+7
+3
+21
+
+EASY
+2
+What is the derivative of ln(x)?
+-1/x^2
+e^x
+ln(x)
+1/x*
+
+HARD
+2
+How many arrangements can be formed of the word 'MATHEMATICS'?
+11!
+11!/8!
+11! / (2!)^3*
+9!
+
+HARD
+2
+Which of the following is known as the Gaussian Integral?
+Integral ln(x) dx
+Integral exp(-x^2) dx*
+Integral x^x dx
+Integral exp(x^2) dx
+
+HARD
+2
+What is limit as x goes to 0 of sin(x)/x?
+1*
+Undefined
+0
+-1
+
+EASY
+3
+Who is the author of “Romeo and Juliet”?
+Leonardo diCaprio
+Shakespeare*
+Drake
+Charles Dickens
+
+EASY
+3
+Which word is a palindrome?
+guacamole
+estuary
+mallard
+racecar*
+
+EASY
+3
+How many vowels are there in the English language?
+4200
+26
+5*
+6
+
+HARD
+3
+What is a synonym of the word “ubiquitous”
+omnipresent*
+sparse
+eccentric
+abstract
+
+HARD
+3
+The word “happy” is an example of which part of speech?
+adverb
+noun
+verb
+adjective*
+
+HARD
+3
+The phrase “clear as crystal” is an example of a…
+metaphor
+comparative sentence
+simile*
+hyperbole
+
+EASY
+4
+Which scientist formulated the laws of motion?
+Bill Nye
+Isaac Newton*
+Neil deGrasse Tyson
+Robert Hooke
+
+EASY
+4
+What element is the most abundant in the universe?
+helium
+vibranium
+hydrogen*
+oxygen
+
+EASY
+4
+What is the speed of sound, roughly?
+343 m/s*
+100 mph
+3x10^8 m/s
+1 m/s
+
+HARD
+4
+Which law of thermodynamics makes perpetual motion impossible?
+2nd law*
+1st law
+3rd law
+4th law
+
+HARD
+4
+What is the SI unit for measuring torque?
+Newton-meters*
+Newtons
+Joules
+Newtons/meter
+
+HARD
+4
+What is the name of the process of a solid converting directly to gas without an intermediate liquid phase?
+Sublimation*
+Condensation
+Boiling
+Unfreezing
+
+EASY
+5
+The Bible is an important religious text for which major religion?
+Christianity*
+Buddhism
+Taoism
+Tengrism
+
+EASY
+5
+Zeus, is the god of war of which country’s ancient religion?
+Greece*
+Italy
+Spain
+Turkey
+
+EASY
+5
+What is the name of the Hindu festival of lights?
+Diwali*
+Ramadan
+Hanukkah
+Holi
+
+HARD
+5
+How many Islamic prophets are named in the Quran?
+25*
+27
+1111
+7
+
+HARD
+5
+What is the name of the Roman deity of war?
+Bellona*
+Kratos
+Neptune
+Pluto
+
+HARD
+5
+What is the ultimate goal of Buddhist practice?
+Nirvana*
+Heaven
+Rebirth
+Freedom
+
+EASY
+6
+In what years did World War 1 take place?
+1914-1918*
+1939-1945
+1947-1991
+1929-1939
+
+EASY
+6
+Who was the first president of the United States?
+George Washington*
+Abraham Lincoln
+JFK
+Donald Trump
+
+EASY
+6
+In which country were the Pyramids of Giza built?
+Egypt*
+Morocco
+Saudi Arabia
+England
+
+HARD
+6
+In what year was the first documented discovery of a dinosaur?
+1842*
+1991
+1942
+1787
+
+HARD
+6
+In which year did Jamaica gain independence from Great Britain?
+1962*
+1644
+1898
+1985
+
+HARD
+6
+What year was the moon landing?
+1969*
+1971
+1967
+It was staged
